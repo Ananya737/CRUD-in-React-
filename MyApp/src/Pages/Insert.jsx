@@ -2,7 +2,7 @@
 const Insert=()=>{
     return(
         <>
-        <h1>Insert Page!</h1>
+        <h1 style={{display:"flex",justifyContent:"center",backgroundColor:"bisque",padding:"20px"}}>Insert Page!</h1>
         
         </>
     )
