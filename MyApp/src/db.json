@@ -1,20 +1,6 @@
 {
   "Students": [
     {
-      "id": "1",
-      "name": "Ananya",
-      "age": 22,
-      "city": "Bhopal",
-      "designation": "Java Developer"
-    },
-    {
-      "id": "cdc9",
-      "empno": "1111",
-      "name": "Ananya",
-      "city": "Bangalore",
-      "salary": "80000"
-    },
-    {
       "id": "9f55",
       "empno": "111",
       "name": "Ananya",

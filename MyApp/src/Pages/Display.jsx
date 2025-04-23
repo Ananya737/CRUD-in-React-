@@ -17,13 +17,13 @@ const Display=()=>{
     useEffect(()=>{
         display();
     },[])
-
+    let srno=0;
     let ans=myData.map((key)=>{
-        let srno=0;
+        srno++;
         return(
             <>
             <tr>
-                <td>{srno++}</td>
+                <td>{srno}</td>
                 <td>{key.id}</td>
                 <td>{key.empno}</td>
                 <td>{key.name}</td>
@@ -38,7 +38,7 @@ const Display=()=>{
         <>
         <h1 style={{display:"flex",justifyContent:"center",backgroundColor:"bisque",padding:"20px"}}>Display Page!</h1>
 
-        <Table striped bordered hover>
+        <Table striped bordered hover style={{width:"1000px",margin:"auto"}}>
       <thead>
         <tr>
           <th>Sr. No.</th>
