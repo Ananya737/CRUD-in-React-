@@ -1,13 +1,6 @@
 {
   "Students": [
     {
-      "id": "9f55",
-      "empno": "111",
-      "name": "Ananya",
-      "city": "Bangalore",
-      "salary": "80000"
-    },
-    {
       "id": "0c49",
       "empno": "111",
       "name": "Ananya",
@@ -20,14 +13,6 @@
       "name": "Ananya Sahu",
       "city": "Bangalore",
       "salary": "80000"
-    },
-    {
-      "id": "338c",
-      "enpno": "",
-      "name": "Ananya Sahu",
-      "city": "Bangalore",
-      "salary": "80000",
-      "empno": "1314"
     }
   ]
 }
